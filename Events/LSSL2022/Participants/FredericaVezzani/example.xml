@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionary xml:lang="en">
+
+<entry id="123">
+    <lemma>terminologia</lemma>
+    <partOfSpeech>nome</partOfSpeech>
+    <grammaticalGender>femminile</grammaticalGender>
+    <etymology>comp. del lat. termĭnus, nel sign. mediev. di «termine, vocabolo» e di -logia</etymology>
+     <senses>
+         <sense n="1">
+         <definition n="a">L’insieme dei termini e delle espressioni proprî di una scienza, di un’arte, di una tecnica o di una qualsiasi disciplina o attività specialistica</definition>
+         <defintion n="b">Il fatto di usare uno o più termini specialistici con un determinato valore specifico</defintion>
+         </sense>
+         
+         <sense n="2">
+             <defintion n="a">Disciplina che ha come oggetto lo studio teorico della denominazione di concetti e realtà appartenenti alle diverse branche del sapere [...]</defintion>
+         </sense>
+     </senses>
+</entry>
+
+<entry id="456">
+    <lemma>lessicologia</lemma>
+    <partOfSpeech>nome</partOfSpeech>
+    <grammaticalGender>femminile</grammaticalGender>
+    <etymology>comp. di lessico e -logia</etymology>
+    <senses>
+        <sense n="1">Studio scientifico del sistema lessicale di una lingua, considerato nella sua struttura e nel suo costituirsi attraverso la storia.</sense>
+    </senses>
+    
+</entry>
+    
+</dictionary>
